@@ -24,3 +24,6 @@ __pycache__/
 
 #file created by macOS to store custom attributes of a folder. It stands for "Desktop Services Store."
 .DS_Store
+
+.tfm
+.tfm.pub
