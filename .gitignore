@@ -1,0 +1,26 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter notebook output files
+*.ipynb_output/
+
+# Python virtual environment
+venv/
+
+# Jupyter notebook workspace configuration
+.jupyter/
+
+# Jupyter notebook metadata
+.ipynb_meta/
+
+# Compiled Python bytecode
+__pycache__/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+#file created by macOS to store custom attributes of a folder. It stands for "Desktop Services Store."
+.DS_Store
